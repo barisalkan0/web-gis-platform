@@ -1,0 +1,22 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <ItemGroup>
+    <ProjectReference Include="..\BasarsoftStaj.Domain\BasarsoftStaj.Domain.csproj" />
+  </ItemGroup>
+
+  <!-- AuthService (BCrypt hash'leme + JWT üretimi) ve IConfiguration okuma artık burada
+       yaşıyor (eskiden API projesindeydi) — bu yüzden bu paketlere burada da ihtiyaç var.
+       Not: Microsoft.NET.Sdk (Web değil) projelerinde bu paketler otomatik gelmiyor. -->
+  <ItemGroup>
+    <PackageReference Include="BCrypt.Net-Next" Version="4.2.0" />
+    <PackageReference Include="Microsoft.Extensions.Configuration.Abstractions" Version="8.*" />
+    <PackageReference Include="System.IdentityModel.Tokens.Jwt" Version="8.*" />
+  </ItemGroup>
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+</Project>

@@ -1,0 +1,22 @@
+# .NET
+bin/
+obj/
+*.user
+.vs/
+
+# Frontend (frontend/.gitignore da var ama kök seviyede de kapsayalım)
+node_modules/
+dist/
+dist-ssr/
+*.local
+
+# Gizli ayarlar — gerçek şifre/JWT anahtarı GitHub'a gitmesin.
+# Örnek dosya (appsettings.Example.json) repoda duruyor.
+src/BasarsoftStaj.API/appsettings.json
+src/BasarsoftStaj.API/appsettings.Development.json
+
+# Editör
+.vscode/*
+!.vscode/extensions.json
+.idea/
+.DS_Store

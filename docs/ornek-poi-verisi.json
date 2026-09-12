@@ -1,0 +1,1442 @@
+[
+  {
+    "name": "Osmangazi Meslek Yüksekokulu",
+    "categoryName": "Üniversite",
+    "parentCategoryName": "Eğitim",
+    "province": "Bursa",
+    "district": "Osmangazi",
+    "lat": 40.176581,
+    "lon": 29.044808
+  },
+  {
+    "name": "Bornova Sofrası",
+    "categoryName": "Restoran",
+    "parentCategoryName": "Yeme-İçme",
+    "province": "İzmir",
+    "district": "Bornova",
+    "lat": 38.466103,
+    "lon": 27.207514
+  },
+  {
+    "name": "Çankaya Kahve Durağı",
+    "categoryName": "Kafe",
+    "parentCategoryName": "Yeme-İçme",
+    "province": "Ankara",
+    "district": "Çankaya",
+    "lat": 39.908141,
+    "lon": 32.855455
+  },
+  {
+    "name": "Nostalji Kahve",
+    "categoryName": "Kafe",
+    "parentCategoryName": "Yeme-İçme",
+    "province": "İzmir",
+    "district": "Bornova",
+    "lat": 38.469814,
+    "lon": 27.21362
+  },
+  {
+    "name": "Beşiktaş Metro İstasyonu",
+    "categoryName": "Metro İstasyonu",
+    "parentCategoryName": "Ulaşım",
+    "province": "İstanbul",
+    "district": "Beşiktaş",
+    "lat": 41.043184,
+    "lon": 29.0212
+  },
+  {
+    "name": "Konak Sofrası",
+    "categoryName": "Restoran",
+    "parentCategoryName": "Yeme-İçme",
+    "province": "İzmir",
+    "district": "Konak",
+    "lat": 38.415496,
+    "lon": 27.146277
+  },
+  {
+    "name": "Hızlı Lokma Keçiören",
+    "categoryName": "Fast Food",
+    "parentCategoryName": "Yeme-İçme",
+    "province": "Ankara",
+    "district": "Keçiören",
+    "lat": 39.99698,
+    "lon": 32.878745
+  },
+  {
+    "name": "Muratpaşa Anadolu Lisesi",
+    "categoryName": "Okul",
+    "parentCategoryName": "Eğitim",
+    "province": "Antalya",
+    "district": "Muratpaşa",
+    "lat": 36.880953,
+    "lon": 30.704525
+  },
+  {
+    "name": "Keçiören Devlet Hastanesi",
+    "categoryName": "Hastane",
+    "parentCategoryName": "Sağlık",
+    "province": "Ankara",
+    "district": "Keçiören",
+    "lat": 39.988338,
+    "lon": 32.879609
+  },
+  {
+    "name": "Konyaaltı Fast Food",
+    "categoryName": "Fast Food",
+    "parentCategoryName": "Yeme-İçme",
+    "province": "Antalya",
+    "district": "Konyaaltı",
+    "lat": 36.859522,
+    "lon": 30.617241
+  },
+  {
+    "name": "Kadıköy Üniversitesi Kampüsü",
+    "categoryName": "Üniversite",
+    "parentCategoryName": "Eğitim",
+    "province": "İstanbul",
+    "district": "Kadıköy",
+    "lat": 40.987685,
+    "lon": 29.045132
+  },
+  {
+    "name": "Liman Restoran",
+    "categoryName": "Restoran",
+    "parentCategoryName": "Yeme-İçme",
+    "province": "İstanbul",
+    "district": "Şişli",
+    "lat": 41.049663,
+    "lon": 28.996487
+  },
+  {
+    "name": "Taze Market Keçiören",
+    "categoryName": "Market",
+    "parentCategoryName": "Alışveriş",
+    "province": "Ankara",
+    "district": "Keçiören",
+    "lat": 39.999831,
+    "lon": 32.854431
+  },
+  {
+    "name": "Konak Kafe",
+    "categoryName": "Kafe",
+    "parentCategoryName": "Yeme-İçme",
+    "province": "İzmir",
+    "district": "Konak",
+    "lat": 38.423205,
+    "lon": 27.143056
+  },
+  {
+    "name": "Muratpaşa Alışveriş Merkezi",
+    "categoryName": "AVM",
+    "parentCategoryName": "Alışveriş",
+    "province": "Antalya",
+    "district": "Muratpaşa",
+    "lat": 36.890077,
+    "lon": 30.712231
+  },
+  {
+    "name": "Çankaya Otobüs Durağı",
+    "categoryName": "Otobüs Durağı",
+    "parentCategoryName": "Ulaşım",
+    "province": "Ankara",
+    "district": "Çankaya",
+    "lat": 39.900902,
+    "lon": 32.869749
+  },
+  {
+    "name": "Üsküdar Sofrası",
+    "categoryName": "Restoran",
+    "parentCategoryName": "Yeme-İçme",
+    "province": "İstanbul",
+    "district": "Üsküdar",
+    "lat": 41.026877,
+    "lon": 29.000082
+  },
+  {
+    "name": "Üsküdar Otobüs Durağı",
+    "categoryName": "Otobüs Durağı",
+    "parentCategoryName": "Ulaşım",
+    "province": "İstanbul",
+    "district": "Üsküdar",
+    "lat": 41.020751,
+    "lon": 29.006648
+  },
+  {
+    "name": "Nilüfer Devlet Hastanesi",
+    "categoryName": "Hastane",
+    "parentCategoryName": "Sağlık",
+    "province": "Bursa",
+    "district": "Nilüfer",
+    "lat": 40.230169,
+    "lon": 29.001958
+  },
+  {
+    "name": "Kadıköy Tıp Merkezi",
+    "categoryName": "Hastane",
+    "parentCategoryName": "Sağlık",
+    "province": "İstanbul",
+    "district": "Kadıköy",
+    "lat": 41.000515,
+    "lon": 29.012483
+  },
+  {
+    "name": "Kadıköy Market",
+    "categoryName": "Market",
+    "parentCategoryName": "Alışveriş",
+    "province": "İstanbul",
+    "district": "Kadıköy",
+    "lat": 40.989482,
+    "lon": 29.023785
+  },
+  {
+    "name": "Çankaya Kahve Durağı",
+    "categoryName": "Kafe",
+    "parentCategoryName": "Yeme-İçme",
+    "province": "Ankara",
+    "district": "Çankaya",
+    "lat": 39.899731,
+    "lon": 32.862827
+  },
+  {
+    "name": "Osmangazi Metro İstasyonu",
+    "categoryName": "Metro İstasyonu",
+    "parentCategoryName": "Ulaşım",
+    "province": "Bursa",
+    "district": "Osmangazi",
+    "lat": 40.17246,
+    "lon": 29.052886
+  },
+  {
+    "name": "Şişli Devlet Hastanesi",
+    "categoryName": "Hastane",
+    "parentCategoryName": "Sağlık",
+    "province": "İstanbul",
+    "district": "Şişli",
+    "lat": 41.048252,
+    "lon": 28.975927
+  },
+  {
+    "name": "Kahve Molası Beşiktaş",
+    "categoryName": "Kafe",
+    "parentCategoryName": "Yeme-İçme",
+    "province": "İstanbul",
+    "district": "Beşiktaş",
+    "lat": 41.05001,
+    "lon": 29.013488
+  },
+  {
+    "name": "Üsküdar Devlet Hastanesi",
+    "categoryName": "Hastane",
+    "parentCategoryName": "Sağlık",
+    "province": "İstanbul",
+    "district": "Üsküdar",
+    "lat": 41.027526,
+    "lon": 29.031341
+  },
+  {
+    "name": "Muratpaşa Tıp Merkezi",
+    "categoryName": "Hastane",
+    "parentCategoryName": "Sağlık",
+    "province": "Antalya",
+    "district": "Muratpaşa",
+    "lat": 36.892066,
+    "lon": 30.722372
+  },
+  {
+    "name": "Konak Ortaokulu",
+    "categoryName": "Okul",
+    "parentCategoryName": "Eğitim",
+    "province": "İzmir",
+    "district": "Konak",
+    "lat": 38.426288,
+    "lon": 27.135787
+  },
+  {
+    "name": "Kadıköy Metro İstasyonu",
+    "categoryName": "Metro İstasyonu",
+    "parentCategoryName": "Ulaşım",
+    "province": "İstanbul",
+    "district": "Kadıköy",
+    "lat": 41.002245,
+    "lon": 29.03793
+  },
+  {
+    "name": "Çankaya Metro İstasyonu",
+    "categoryName": "Metro İstasyonu",
+    "parentCategoryName": "Ulaşım",
+    "province": "Ankara",
+    "district": "Çankaya",
+    "lat": 39.902027,
+    "lon": 32.854295
+  },
+  {
+    "name": "Komşu Market Kadıköy",
+    "categoryName": "Market",
+    "parentCategoryName": "Alışveriş",
+    "province": "İstanbul",
+    "district": "Kadıköy",
+    "lat": 40.985079,
+    "lon": 29.026741
+  },
+  {
+    "name": "Merkez Eczane Üsküdar",
+    "categoryName": "Eczane",
+    "parentCategoryName": "Sağlık",
+    "province": "İstanbul",
+    "district": "Üsküdar",
+    "lat": 41.020236,
+    "lon": 29.030286
+  },
+  {
+    "name": "Nilüfer İlkokulu",
+    "categoryName": "Okul",
+    "parentCategoryName": "Eğitim",
+    "province": "Bursa",
+    "district": "Nilüfer",
+    "lat": 40.224153,
+    "lon": 28.985699
+  },
+  {
+    "name": "Şişli Üniversitesi Kampüsü",
+    "categoryName": "Üniversite",
+    "parentCategoryName": "Eğitim",
+    "province": "İstanbul",
+    "district": "Şişli",
+    "lat": 41.060388,
+    "lon": 28.972048
+  },
+  {
+    "name": "Kadıköy Restoran",
+    "categoryName": "Restoran",
+    "parentCategoryName": "Yeme-İçme",
+    "province": "İstanbul",
+    "district": "Kadıköy",
+    "lat": 40.997921,
+    "lon": 29.039685
+  },
+  {
+    "name": "Konak Alışveriş Merkezi",
+    "categoryName": "AVM",
+    "parentCategoryName": "Alışveriş",
+    "province": "İzmir",
+    "district": "Konak",
+    "lat": 38.430805,
+    "lon": 27.145701
+  },
+  {
+    "name": "Kadıköy Otobüs Durağı",
+    "categoryName": "Otobüs Durağı",
+    "parentCategoryName": "Ulaşım",
+    "province": "İstanbul",
+    "district": "Kadıköy",
+    "lat": 40.996114,
+    "lon": 29.039157
+  },
+  {
+    "name": "Çankaya Kahve Durağı",
+    "categoryName": "Kafe",
+    "parentCategoryName": "Yeme-İçme",
+    "province": "Ankara",
+    "district": "Çankaya",
+    "lat": 39.919963,
+    "lon": 32.852598
+  },
+  {
+    "name": "Kahve Molası Üsküdar",
+    "categoryName": "Kafe",
+    "parentCategoryName": "Yeme-İçme",
+    "province": "İstanbul",
+    "district": "Üsküdar",
+    "lat": 41.022271,
+    "lon": 29.004797
+  },
+  {
+    "name": "Konak Meslek Yüksekokulu",
+    "categoryName": "Üniversite",
+    "parentCategoryName": "Eğitim",
+    "province": "İzmir",
+    "district": "Konak",
+    "lat": 38.409968,
+    "lon": 27.158613
+  },
+  {
+    "name": "Şişli Kahve Durağı",
+    "categoryName": "Kafe",
+    "parentCategoryName": "Yeme-İçme",
+    "province": "İstanbul",
+    "district": "Şişli",
+    "lat": 41.061174,
+    "lon": 28.993477
+  },
+  {
+    "name": "Beşiktaş Fast Food",
+    "categoryName": "Fast Food",
+    "parentCategoryName": "Yeme-İçme",
+    "province": "İstanbul",
+    "district": "Beşiktaş",
+    "lat": 41.032131,
+    "lon": 28.994173
+  },
+  {
+    "name": "Kadıköy Üniversitesi Kampüsü",
+    "categoryName": "Üniversite",
+    "parentCategoryName": "Eğitim",
+    "province": "İstanbul",
+    "district": "Kadıköy",
+    "lat": 40.995432,
+    "lon": 29.035877
+  },
+  {
+    "name": "Anadolu Mutfağı Muratpaşa",
+    "categoryName": "Restoran",
+    "parentCategoryName": "Yeme-İçme",
+    "province": "Antalya",
+    "district": "Muratpaşa",
+    "lat": 36.873747,
+    "lon": 30.703372
+  },
+  {
+    "name": "Üsküdar Devlet Hastanesi",
+    "categoryName": "Hastane",
+    "parentCategoryName": "Sağlık",
+    "province": "İstanbul",
+    "district": "Üsküdar",
+    "lat": 41.025216,
+    "lon": 29.001296
+  },
+  {
+    "name": "Çankaya Alışveriş Merkezi",
+    "categoryName": "AVM",
+    "parentCategoryName": "Alışveriş",
+    "province": "Ankara",
+    "district": "Çankaya",
+    "lat": 39.900886,
+    "lon": 32.861934
+  },
+  {
+    "name": "Kahve Molası Kadıköy",
+    "categoryName": "Kafe",
+    "parentCategoryName": "Yeme-İçme",
+    "province": "İstanbul",
+    "district": "Kadıköy",
+    "lat": 40.993048,
+    "lon": 29.018476
+  },
+  {
+    "name": "Muratpaşa Alışveriş Merkezi",
+    "categoryName": "AVM",
+    "parentCategoryName": "Alışveriş",
+    "province": "Antalya",
+    "district": "Muratpaşa",
+    "lat": 36.894393,
+    "lon": 30.716133
+  },
+  {
+    "name": "Osmangazi Burger",
+    "categoryName": "Fast Food",
+    "parentCategoryName": "Yeme-İçme",
+    "province": "Bursa",
+    "district": "Osmangazi",
+    "lat": 40.180382,
+    "lon": 29.045312
+  },
+  {
+    "name": "Hızlı Lokma Bornova",
+    "categoryName": "Fast Food",
+    "parentCategoryName": "Yeme-İçme",
+    "province": "İzmir",
+    "district": "Bornova",
+    "lat": 38.470632,
+    "lon": 27.208916
+  },
+  {
+    "name": "Bornova Bakkaliye",
+    "categoryName": "Market",
+    "parentCategoryName": "Alışveriş",
+    "province": "İzmir",
+    "district": "Bornova",
+    "lat": 38.477736,
+    "lon": 27.227274
+  },
+  {
+    "name": "Muratpaşa İlkokulu",
+    "categoryName": "Okul",
+    "parentCategoryName": "Eğitim",
+    "province": "Antalya",
+    "district": "Muratpaşa",
+    "lat": 36.881198,
+    "lon": 30.69711
+  },
+  {
+    "name": "Kadıköy Metro İstasyonu",
+    "categoryName": "Metro İstasyonu",
+    "parentCategoryName": "Ulaşım",
+    "province": "İstanbul",
+    "district": "Kadıköy",
+    "lat": 40.998828,
+    "lon": 29.034746
+  },
+  {
+    "name": "Çankaya Metro İstasyonu",
+    "categoryName": "Metro İstasyonu",
+    "parentCategoryName": "Ulaşım",
+    "province": "Ankara",
+    "district": "Çankaya",
+    "lat": 39.899223,
+    "lon": 32.869901
+  },
+  {
+    "name": "Kadıköy Metro İstasyonu",
+    "categoryName": "Metro İstasyonu",
+    "parentCategoryName": "Ulaşım",
+    "province": "İstanbul",
+    "district": "Kadıköy",
+    "lat": 40.985201,
+    "lon": 29.011
+  },
+  {
+    "name": "Şişli Eczanesi",
+    "categoryName": "Eczane",
+    "parentCategoryName": "Sağlık",
+    "province": "İstanbul",
+    "district": "Şişli",
+    "lat": 41.059643,
+    "lon": 28.971805
+  },
+  {
+    "name": "Bornova Park AVM",
+    "categoryName": "AVM",
+    "parentCategoryName": "Alışveriş",
+    "province": "İzmir",
+    "district": "Bornova",
+    "lat": 38.473558,
+    "lon": 27.206267
+  },
+  {
+    "name": "Osmangazi Meslek Yüksekokulu",
+    "categoryName": "Üniversite",
+    "parentCategoryName": "Eğitim",
+    "province": "Bursa",
+    "district": "Osmangazi",
+    "lat": 40.175564,
+    "lon": 29.057968
+  },
+  {
+    "name": "Nostalji Kahve",
+    "categoryName": "Kafe",
+    "parentCategoryName": "Yeme-İçme",
+    "province": "İstanbul",
+    "district": "Şişli",
+    "lat": 41.068743,
+    "lon": 28.999089
+  },
+  {
+    "name": "Şifa Eczanesi Konyaaltı",
+    "categoryName": "Eczane",
+    "parentCategoryName": "Sağlık",
+    "province": "Antalya",
+    "district": "Konyaaltı",
+    "lat": 36.858034,
+    "lon": 30.642997
+  },
+  {
+    "name": "Nostalji Kahve",
+    "categoryName": "Kafe",
+    "parentCategoryName": "Yeme-İçme",
+    "province": "İstanbul",
+    "district": "Kadıköy",
+    "lat": 40.99894,
+    "lon": 29.013582
+  },
+  {
+    "name": "Konak Metro İstasyonu",
+    "categoryName": "Metro İstasyonu",
+    "parentCategoryName": "Ulaşım",
+    "province": "İzmir",
+    "district": "Konak",
+    "lat": 38.423121,
+    "lon": 27.147234
+  },
+  {
+    "name": "Konak Devlet Hastanesi",
+    "categoryName": "Hastane",
+    "parentCategoryName": "Sağlık",
+    "province": "İzmir",
+    "district": "Konak",
+    "lat": 38.424211,
+    "lon": 27.13397
+  },
+  {
+    "name": "Merkez Eczane Konak",
+    "categoryName": "Eczane",
+    "parentCategoryName": "Sağlık",
+    "province": "İzmir",
+    "district": "Konak",
+    "lat": 38.420506,
+    "lon": 27.1499
+  },
+  {
+    "name": "Kadıköy Restoran",
+    "categoryName": "Restoran",
+    "parentCategoryName": "Yeme-İçme",
+    "province": "İstanbul",
+    "district": "Kadıköy",
+    "lat": 40.986766,
+    "lon": 29.035233
+  },
+  {
+    "name": "Kadıköy Devlet Hastanesi",
+    "categoryName": "Hastane",
+    "parentCategoryName": "Sağlık",
+    "province": "İstanbul",
+    "district": "Kadıköy",
+    "lat": 40.985277,
+    "lon": 29.026272
+  },
+  {
+    "name": "Çankaya Sofrası",
+    "categoryName": "Restoran",
+    "parentCategoryName": "Yeme-İçme",
+    "province": "Ankara",
+    "district": "Çankaya",
+    "lat": 39.915904,
+    "lon": 32.858934
+  },
+  {
+    "name": "Kadıköy Alışveriş Merkezi",
+    "categoryName": "AVM",
+    "parentCategoryName": "Alışveriş",
+    "province": "İstanbul",
+    "district": "Kadıköy",
+    "lat": 40.982707,
+    "lon": 29.032029
+  },
+  {
+    "name": "Muratpaşa Anadolu Lisesi",
+    "categoryName": "Okul",
+    "parentCategoryName": "Eğitim",
+    "province": "Antalya",
+    "district": "Muratpaşa",
+    "lat": 36.894846,
+    "lon": 30.699418
+  },
+  {
+    "name": "Komşu Market Kadıköy",
+    "categoryName": "Market",
+    "parentCategoryName": "Alışveriş",
+    "province": "İstanbul",
+    "district": "Kadıköy",
+    "lat": 40.994841,
+    "lon": 29.036613
+  },
+  {
+    "name": "Beşiktaş Kahve Durağı",
+    "categoryName": "Kafe",
+    "parentCategoryName": "Yeme-İçme",
+    "province": "İstanbul",
+    "district": "Beşiktaş",
+    "lat": 41.050585,
+    "lon": 29.017249
+  },
+  {
+    "name": "Sahil Kafe Konyaaltı",
+    "categoryName": "Kafe",
+    "parentCategoryName": "Yeme-İçme",
+    "province": "Antalya",
+    "district": "Konyaaltı",
+    "lat": 36.862054,
+    "lon": 30.635762
+  },
+  {
+    "name": "Muratpaşa Bakkaliye",
+    "categoryName": "Market",
+    "parentCategoryName": "Alışveriş",
+    "province": "Antalya",
+    "district": "Muratpaşa",
+    "lat": 36.89037,
+    "lon": 30.707066
+  },
+  {
+    "name": "Nostalji Kahve",
+    "categoryName": "Kafe",
+    "parentCategoryName": "Yeme-İçme",
+    "province": "Bursa",
+    "district": "Osmangazi",
+    "lat": 40.189899,
+    "lon": 29.050878
+  },
+  {
+    "name": "Bornova Otobüs Durağı",
+    "categoryName": "Otobüs Durağı",
+    "parentCategoryName": "Ulaşım",
+    "province": "İzmir",
+    "district": "Bornova",
+    "lat": 38.477548,
+    "lon": 27.202062
+  },
+  {
+    "name": "Konak Bakkaliye",
+    "categoryName": "Market",
+    "parentCategoryName": "Alışveriş",
+    "province": "İzmir",
+    "district": "Konak",
+    "lat": 38.416299,
+    "lon": 27.148737
+  },
+  {
+    "name": "Şifa Eczanesi Kadıköy",
+    "categoryName": "Eczane",
+    "parentCategoryName": "Sağlık",
+    "province": "İstanbul",
+    "district": "Kadıköy",
+    "lat": 40.980269,
+    "lon": 29.017022
+  },
+  {
+    "name": "Beşiktaş Kafe",
+    "categoryName": "Kafe",
+    "parentCategoryName": "Yeme-İçme",
+    "province": "İstanbul",
+    "district": "Beşiktaş",
+    "lat": 41.05096,
+    "lon": 29.022534
+  },
+  {
+    "name": "Çankaya Alışveriş Merkezi",
+    "categoryName": "AVM",
+    "parentCategoryName": "Alışveriş",
+    "province": "Ankara",
+    "district": "Çankaya",
+    "lat": 39.90931,
+    "lon": 32.860143
+  },
+  {
+    "name": "Liman Restoran",
+    "categoryName": "Restoran",
+    "parentCategoryName": "Yeme-İçme",
+    "province": "İzmir",
+    "district": "Konak",
+    "lat": 38.420123,
+    "lon": 27.158121
+  },
+  {
+    "name": "Merkez Eczane Çankaya",
+    "categoryName": "Eczane",
+    "parentCategoryName": "Sağlık",
+    "province": "Ankara",
+    "district": "Çankaya",
+    "lat": 39.91601,
+    "lon": 32.841779
+  },
+  {
+    "name": "Beşiktaş Üniversitesi Kampüsü",
+    "categoryName": "Üniversite",
+    "parentCategoryName": "Eğitim",
+    "province": "İstanbul",
+    "district": "Beşiktaş",
+    "lat": 41.042727,
+    "lon": 29.012462
+  },
+  {
+    "name": "Osmangazi Üniversitesi Kampüsü",
+    "categoryName": "Üniversite",
+    "parentCategoryName": "Eğitim",
+    "province": "Bursa",
+    "district": "Osmangazi",
+    "lat": 40.17615,
+    "lon": 29.047981
+  },
+  {
+    "name": "Beşiktaş Devlet Hastanesi",
+    "categoryName": "Hastane",
+    "parentCategoryName": "Sağlık",
+    "province": "İstanbul",
+    "district": "Beşiktaş",
+    "lat": 41.045301,
+    "lon": 29.004752
+  },
+  {
+    "name": "Merkez Eczane Konak",
+    "categoryName": "Eczane",
+    "parentCategoryName": "Sağlık",
+    "province": "İzmir",
+    "district": "Konak",
+    "lat": 38.430405,
+    "lon": 27.155917
+  },
+  {
+    "name": "Beşiktaş Meslek Yüksekokulu",
+    "categoryName": "Üniversite",
+    "parentCategoryName": "Eğitim",
+    "province": "İstanbul",
+    "district": "Beşiktaş",
+    "lat": 41.041282,
+    "lon": 29.017792
+  },
+  {
+    "name": "Konyaaltı Tıp Merkezi",
+    "categoryName": "Hastane",
+    "parentCategoryName": "Sağlık",
+    "province": "Antalya",
+    "district": "Konyaaltı",
+    "lat": 36.862541,
+    "lon": 30.613382
+  },
+  {
+    "name": "Nilüfer Durağı",
+    "categoryName": "Otobüs Durağı",
+    "parentCategoryName": "Ulaşım",
+    "province": "Bursa",
+    "district": "Nilüfer",
+    "lat": 40.222305,
+    "lon": 29.004349
+  },
+  {
+    "name": "Üsküdar Üniversitesi Kampüsü",
+    "categoryName": "Üniversite",
+    "parentCategoryName": "Eğitim",
+    "province": "İstanbul",
+    "district": "Üsküdar",
+    "lat": 41.030338,
+    "lon": 29.007442
+  },
+  {
+    "name": "Beşiktaş Otobüs Durağı",
+    "categoryName": "Otobüs Durağı",
+    "parentCategoryName": "Ulaşım",
+    "province": "İstanbul",
+    "district": "Beşiktaş",
+    "lat": 41.054936,
+    "lon": 29.003932
+  },
+  {
+    "name": "Kadıköy Eczanesi",
+    "categoryName": "Eczane",
+    "parentCategoryName": "Sağlık",
+    "province": "İstanbul",
+    "district": "Kadıköy",
+    "lat": 40.983628,
+    "lon": 29.023427
+  },
+  {
+    "name": "Beşiktaş Sofrası",
+    "categoryName": "Restoran",
+    "parentCategoryName": "Yeme-İçme",
+    "province": "İstanbul",
+    "district": "Beşiktaş",
+    "lat": 41.043887,
+    "lon": 29.015442
+  },
+  {
+    "name": "Beşiktaş Alışveriş Merkezi",
+    "categoryName": "AVM",
+    "parentCategoryName": "Alışveriş",
+    "province": "İstanbul",
+    "district": "Beşiktaş",
+    "lat": 41.033554,
+    "lon": 29.009177
+  },
+  {
+    "name": "Dönerci Ali Konak",
+    "categoryName": "Fast Food",
+    "parentCategoryName": "Yeme-İçme",
+    "province": "İzmir",
+    "district": "Konak",
+    "lat": 38.427209,
+    "lon": 27.139419
+  },
+  {
+    "name": "Komşu Market Beşiktaş",
+    "categoryName": "Market",
+    "parentCategoryName": "Alışveriş",
+    "province": "İstanbul",
+    "district": "Beşiktaş",
+    "lat": 41.034877,
+    "lon": 29.004361
+  },
+  {
+    "name": "Şişli Fast Food",
+    "categoryName": "Fast Food",
+    "parentCategoryName": "Yeme-İçme",
+    "province": "İstanbul",
+    "district": "Şişli",
+    "lat": 41.05333,
+    "lon": 28.987483
+  },
+  {
+    "name": "Keçiören Devlet Hastanesi",
+    "categoryName": "Hastane",
+    "parentCategoryName": "Sağlık",
+    "province": "Ankara",
+    "district": "Keçiören",
+    "lat": 39.988682,
+    "lon": 32.882027
+  },
+  {
+    "name": "Üsküdar Üniversitesi Kampüsü",
+    "categoryName": "Üniversite",
+    "parentCategoryName": "Eğitim",
+    "province": "İstanbul",
+    "district": "Üsküdar",
+    "lat": 41.009573,
+    "lon": 29.019084
+  },
+  {
+    "name": "Taze Market Üsküdar",
+    "categoryName": "Market",
+    "parentCategoryName": "Alışveriş",
+    "province": "İstanbul",
+    "district": "Üsküdar",
+    "lat": 41.02552,
+    "lon": 29.012264
+  },
+  {
+    "name": "Osmangazi Alışveriş Merkezi",
+    "categoryName": "AVM",
+    "parentCategoryName": "Alışveriş",
+    "province": "Bursa",
+    "district": "Osmangazi",
+    "lat": 40.178273,
+    "lon": 29.052782
+  },
+  {
+    "name": "Komşu Market Konak",
+    "categoryName": "Market",
+    "parentCategoryName": "Alışveriş",
+    "province": "İzmir",
+    "district": "Konak",
+    "lat": 38.411835,
+    "lon": 27.125652
+  },
+  {
+    "name": "Nilüfer Metro İstasyonu",
+    "categoryName": "Metro İstasyonu",
+    "parentCategoryName": "Ulaşım",
+    "province": "Bursa",
+    "district": "Nilüfer",
+    "lat": 40.218387,
+    "lon": 28.974722
+  },
+  {
+    "name": "Komşu Market Üsküdar",
+    "categoryName": "Market",
+    "parentCategoryName": "Alışveriş",
+    "province": "İstanbul",
+    "district": "Üsküdar",
+    "lat": 41.009905,
+    "lon": 29.000205
+  },
+  {
+    "name": "Çankaya Bakkaliye",
+    "categoryName": "Market",
+    "parentCategoryName": "Alışveriş",
+    "province": "Ankara",
+    "district": "Çankaya",
+    "lat": 39.917367,
+    "lon": 32.840416
+  },
+  {
+    "name": "Merkez Eczane Nilüfer",
+    "categoryName": "Eczane",
+    "parentCategoryName": "Sağlık",
+    "province": "Bursa",
+    "district": "Nilüfer",
+    "lat": 40.228583,
+    "lon": 28.998825
+  },
+  {
+    "name": "Nostalji Kahve",
+    "categoryName": "Kafe",
+    "parentCategoryName": "Yeme-İçme",
+    "province": "Bursa",
+    "district": "Osmangazi",
+    "lat": 40.181751,
+    "lon": 29.0478
+  },
+  {
+    "name": "Üsküdar Eczanesi",
+    "categoryName": "Eczane",
+    "parentCategoryName": "Sağlık",
+    "province": "İstanbul",
+    "district": "Üsküdar",
+    "lat": 41.016083,
+    "lon": 29.01641
+  },
+  {
+    "name": "Dönerci Ali Çankaya",
+    "categoryName": "Fast Food",
+    "parentCategoryName": "Yeme-İçme",
+    "province": "Ankara",
+    "district": "Çankaya",
+    "lat": 39.917102,
+    "lon": 32.867811
+  },
+  {
+    "name": "Keçiören Devlet Hastanesi",
+    "categoryName": "Hastane",
+    "parentCategoryName": "Sağlık",
+    "province": "Ankara",
+    "district": "Keçiören",
+    "lat": 40.005681,
+    "lon": 32.852727
+  },
+  {
+    "name": "Beşiktaş Üniversitesi Kampüsü",
+    "categoryName": "Üniversite",
+    "parentCategoryName": "Eğitim",
+    "province": "İstanbul",
+    "district": "Beşiktaş",
+    "lat": 41.042407,
+    "lon": 28.995522
+  },
+  {
+    "name": "Beşiktaş İlkokulu",
+    "categoryName": "Okul",
+    "parentCategoryName": "Eğitim",
+    "province": "İstanbul",
+    "district": "Beşiktaş",
+    "lat": 41.05202,
+    "lon": 29.025237
+  },
+  {
+    "name": "Konyaaltı Metro İstasyonu",
+    "categoryName": "Metro İstasyonu",
+    "parentCategoryName": "Ulaşım",
+    "province": "Antalya",
+    "district": "Konyaaltı",
+    "lat": 36.869071,
+    "lon": 30.633073
+  },
+  {
+    "name": "Merkez Eczane Üsküdar",
+    "categoryName": "Eczane",
+    "parentCategoryName": "Sağlık",
+    "province": "İstanbul",
+    "district": "Üsküdar",
+    "lat": 41.030132,
+    "lon": 29.0127
+  },
+  {
+    "name": "Beşiktaş Anadolu Lisesi",
+    "categoryName": "Okul",
+    "parentCategoryName": "Eğitim",
+    "province": "İstanbul",
+    "district": "Beşiktaş",
+    "lat": 41.044277,
+    "lon": 28.999951
+  },
+  {
+    "name": "Beşiktaş Alışveriş Merkezi",
+    "categoryName": "AVM",
+    "parentCategoryName": "Alışveriş",
+    "province": "İstanbul",
+    "district": "Beşiktaş",
+    "lat": 41.052072,
+    "lon": 28.992985
+  },
+  {
+    "name": "Kadıköy Meslek Yüksekokulu",
+    "categoryName": "Üniversite",
+    "parentCategoryName": "Eğitim",
+    "province": "İstanbul",
+    "district": "Kadıköy",
+    "lat": 40.993444,
+    "lon": 29.039959
+  },
+  {
+    "name": "Liman Restoran",
+    "categoryName": "Restoran",
+    "parentCategoryName": "Yeme-İçme",
+    "province": "Bursa",
+    "district": "Nilüfer",
+    "lat": 40.208242,
+    "lon": 28.985394
+  },
+  {
+    "name": "Merkez Eczane Konak",
+    "categoryName": "Eczane",
+    "parentCategoryName": "Sağlık",
+    "province": "İzmir",
+    "district": "Konak",
+    "lat": 38.419474,
+    "lon": 27.146624
+  },
+  {
+    "name": "Şişli Sofrası",
+    "categoryName": "Restoran",
+    "parentCategoryName": "Yeme-İçme",
+    "province": "İstanbul",
+    "district": "Şişli",
+    "lat": 41.068569,
+    "lon": 29.003349
+  },
+  {
+    "name": "Muratpaşa Durağı",
+    "categoryName": "Otobüs Durağı",
+    "parentCategoryName": "Ulaşım",
+    "province": "Antalya",
+    "district": "Muratpaşa",
+    "lat": 36.87603,
+    "lon": 30.723301
+  },
+  {
+    "name": "Merkez Eczane Keçiören",
+    "categoryName": "Eczane",
+    "parentCategoryName": "Sağlık",
+    "province": "Ankara",
+    "district": "Keçiören",
+    "lat": 40.003738,
+    "lon": 32.87758
+  },
+  {
+    "name": "Sahil Kafe Konyaaltı",
+    "categoryName": "Kafe",
+    "parentCategoryName": "Yeme-İçme",
+    "province": "Antalya",
+    "district": "Konyaaltı",
+    "lat": 36.855333,
+    "lon": 30.639075
+  },
+  {
+    "name": "Şişli Tıp Merkezi",
+    "categoryName": "Hastane",
+    "parentCategoryName": "Sağlık",
+    "province": "İstanbul",
+    "district": "Şişli",
+    "lat": 41.067043,
+    "lon": 29.003355
+  },
+  {
+    "name": "Keçiören Kafe",
+    "categoryName": "Kafe",
+    "parentCategoryName": "Yeme-İçme",
+    "province": "Ankara",
+    "district": "Keçiören",
+    "lat": 40.004219,
+    "lon": 32.876784
+  },
+  {
+    "name": "Beşiktaş Park AVM",
+    "categoryName": "AVM",
+    "parentCategoryName": "Alışveriş",
+    "province": "İstanbul",
+    "district": "Beşiktaş",
+    "lat": 41.041434,
+    "lon": 28.994916
+  },
+  {
+    "name": "Muratpaşa Market",
+    "categoryName": "Market",
+    "parentCategoryName": "Alışveriş",
+    "province": "Antalya",
+    "district": "Muratpaşa",
+    "lat": 36.877825,
+    "lon": 30.717668
+  },
+  {
+    "name": "Nilüfer Devlet Hastanesi",
+    "categoryName": "Hastane",
+    "parentCategoryName": "Sağlık",
+    "province": "Bursa",
+    "district": "Nilüfer",
+    "lat": 40.21465,
+    "lon": 28.989276
+  },
+  {
+    "name": "Osmangazi Fast Food",
+    "categoryName": "Fast Food",
+    "parentCategoryName": "Yeme-İçme",
+    "province": "Bursa",
+    "district": "Osmangazi",
+    "lat": 40.188643,
+    "lon": 29.059203
+  },
+  {
+    "name": "Konak Metro İstasyonu",
+    "categoryName": "Metro İstasyonu",
+    "parentCategoryName": "Ulaşım",
+    "province": "İzmir",
+    "district": "Konak",
+    "lat": 38.408879,
+    "lon": 27.137912
+  },
+  {
+    "name": "Şişli Park AVM",
+    "categoryName": "AVM",
+    "parentCategoryName": "Alışveriş",
+    "province": "İstanbul",
+    "district": "Şişli",
+    "lat": 41.065732,
+    "lon": 28.995077
+  },
+  {
+    "name": "Kadıköy Otobüs Durağı",
+    "categoryName": "Otobüs Durağı",
+    "parentCategoryName": "Ulaşım",
+    "province": "İstanbul",
+    "district": "Kadıköy",
+    "lat": 40.990582,
+    "lon": 29.017755
+  },
+  {
+    "name": "Üsküdar İlkokulu",
+    "categoryName": "Okul",
+    "parentCategoryName": "Eğitim",
+    "province": "İstanbul",
+    "district": "Üsküdar",
+    "lat": 41.02676,
+    "lon": 29.017312
+  },
+  {
+    "name": "Nilüfer Tıp Merkezi",
+    "categoryName": "Hastane",
+    "parentCategoryName": "Sağlık",
+    "province": "Bursa",
+    "district": "Nilüfer",
+    "lat": 40.222118,
+    "lon": 29.004274
+  },
+  {
+    "name": "Kadıköy Üniversitesi Kampüsü",
+    "categoryName": "Üniversite",
+    "parentCategoryName": "Eğitim",
+    "province": "İstanbul",
+    "district": "Kadıköy",
+    "lat": 40.979363,
+    "lon": 29.031358
+  },
+  {
+    "name": "Çankaya Eczanesi",
+    "categoryName": "Eczane",
+    "parentCategoryName": "Sağlık",
+    "province": "Ankara",
+    "district": "Çankaya",
+    "lat": 39.899141,
+    "lon": 32.845662
+  },
+  {
+    "name": "Konyaaltı Ocakbaşı",
+    "categoryName": "Restoran",
+    "parentCategoryName": "Yeme-İçme",
+    "province": "Antalya",
+    "district": "Konyaaltı",
+    "lat": 36.849533,
+    "lon": 30.640504
+  },
+  {
+    "name": "Anadolu Mutfağı Keçiören",
+    "categoryName": "Restoran",
+    "parentCategoryName": "Yeme-İçme",
+    "province": "Ankara",
+    "district": "Keçiören",
+    "lat": 39.988989,
+    "lon": 32.856263
+  },
+  {
+    "name": "Hızlı Lokma Çankaya",
+    "categoryName": "Fast Food",
+    "parentCategoryName": "Yeme-İçme",
+    "province": "Ankara",
+    "district": "Çankaya",
+    "lat": 39.912205,
+    "lon": 32.857521
+  },
+  {
+    "name": "Keçiören Burger",
+    "categoryName": "Fast Food",
+    "parentCategoryName": "Yeme-İçme",
+    "province": "Ankara",
+    "district": "Keçiören",
+    "lat": 39.983595,
+    "lon": 32.880431
+  },
+  {
+    "name": "Şişli Fast Food",
+    "categoryName": "Fast Food",
+    "parentCategoryName": "Yeme-İçme",
+    "province": "İstanbul",
+    "district": "Şişli",
+    "lat": 41.059303,
+    "lon": 28.976606
+  },
+  {
+    "name": "Osmangazi Otobüs Durağı",
+    "categoryName": "Otobüs Durağı",
+    "parentCategoryName": "Ulaşım",
+    "province": "Bursa",
+    "district": "Osmangazi",
+    "lat": 40.183749,
+    "lon": 29.0729
+  },
+  {
+    "name": "Üsküdar Metro İstasyonu",
+    "categoryName": "Metro İstasyonu",
+    "parentCategoryName": "Ulaşım",
+    "province": "İstanbul",
+    "district": "Üsküdar",
+    "lat": 41.03113,
+    "lon": 29.006142
+  },
+  {
+    "name": "Çankaya Alışveriş Merkezi",
+    "categoryName": "AVM",
+    "parentCategoryName": "Alışveriş",
+    "province": "Ankara",
+    "district": "Çankaya",
+    "lat": 39.90924,
+    "lon": 32.862784
+  },
+  {
+    "name": "Osmangazi Metro İstasyonu",
+    "categoryName": "Metro İstasyonu",
+    "parentCategoryName": "Ulaşım",
+    "province": "Bursa",
+    "district": "Osmangazi",
+    "lat": 40.183111,
+    "lon": 29.070569
+  },
+  {
+    "name": "Kadıköy Burger",
+    "categoryName": "Fast Food",
+    "parentCategoryName": "Yeme-İçme",
+    "province": "İstanbul",
+    "district": "Kadıköy",
+    "lat": 40.986678,
+    "lon": 29.04456
+  },
+  {
+    "name": "Keçiören Fast Food",
+    "categoryName": "Fast Food",
+    "parentCategoryName": "Yeme-İçme",
+    "province": "Ankara",
+    "district": "Keçiören",
+    "lat": 39.990398,
+    "lon": 32.853288
+  },
+  {
+    "name": "Konak Park AVM",
+    "categoryName": "AVM",
+    "parentCategoryName": "Alışveriş",
+    "province": "İzmir",
+    "district": "Konak",
+    "lat": 38.416792,
+    "lon": 27.147893
+  },
+  {
+    "name": "Muratpaşa Metro İstasyonu",
+    "categoryName": "Metro İstasyonu",
+    "parentCategoryName": "Ulaşım",
+    "province": "Antalya",
+    "district": "Muratpaşa",
+    "lat": 36.894891,
+    "lon": 30.722452
+  },
+  {
+    "name": "Bornova Bakkaliye",
+    "categoryName": "Market",
+    "parentCategoryName": "Alışveriş",
+    "province": "İzmir",
+    "district": "Bornova",
+    "lat": 38.460556,
+    "lon": 27.216498
+  },
+  {
+    "name": "Konyaaltı Kafe",
+    "categoryName": "Kafe",
+    "parentCategoryName": "Yeme-İçme",
+    "province": "Antalya",
+    "district": "Konyaaltı",
+    "lat": 36.86141,
+    "lon": 30.641511
+  },
+  {
+    "name": "Taze Market Bornova",
+    "categoryName": "Market",
+    "parentCategoryName": "Alışveriş",
+    "province": "İzmir",
+    "district": "Bornova",
+    "lat": 38.459479,
+    "lon": 27.206787
+  },
+  {
+    "name": "Çankaya Metro İstasyonu",
+    "categoryName": "Metro İstasyonu",
+    "parentCategoryName": "Ulaşım",
+    "province": "Ankara",
+    "district": "Çankaya",
+    "lat": 39.918296,
+    "lon": 32.85256
+  },
+  {
+    "name": "Beşiktaş Metro İstasyonu",
+    "categoryName": "Metro İstasyonu",
+    "parentCategoryName": "Ulaşım",
+    "province": "İstanbul",
+    "district": "Beşiktaş",
+    "lat": 41.034351,
+    "lon": 28.996043
+  },
+  {
+    "name": "Şişli Meslek Yüksekokulu",
+    "categoryName": "Üniversite",
+    "parentCategoryName": "Eğitim",
+    "province": "İstanbul",
+    "district": "Şişli",
+    "lat": 41.055321,
+    "lon": 28.975573
+  },
+  {
+    "name": "Çankaya Sofrası",
+    "categoryName": "Restoran",
+    "parentCategoryName": "Yeme-İçme",
+    "province": "Ankara",
+    "district": "Çankaya",
+    "lat": 39.89914,
+    "lon": 32.848108
+  },
+  {
+    "name": "Çankaya Market",
+    "categoryName": "Market",
+    "parentCategoryName": "Alışveriş",
+    "province": "Ankara",
+    "district": "Çankaya",
+    "lat": 39.906061,
+    "lon": 32.858398
+  },
+  {
+    "name": "Muratpaşa Otobüs Durağı",
+    "categoryName": "Otobüs Durağı",
+    "parentCategoryName": "Ulaşım",
+    "province": "Antalya",
+    "district": "Muratpaşa",
+    "lat": 36.88926,
+    "lon": 30.70958
+  },
+  {
+    "name": "Bornova Otobüs Durağı",
+    "categoryName": "Otobüs Durağı",
+    "parentCategoryName": "Ulaşım",
+    "province": "İzmir",
+    "district": "Bornova",
+    "lat": 38.465312,
+    "lon": 27.21544
+  },
+  {
+    "name": "Bornova Metro İstasyonu",
+    "categoryName": "Metro İstasyonu",
+    "parentCategoryName": "Ulaşım",
+    "province": "İzmir",
+    "district": "Bornova",
+    "lat": 38.475351,
+    "lon": 27.230836
+  },
+  {
+    "name": "Osmangazi Meslek Yüksekokulu",
+    "categoryName": "Üniversite",
+    "parentCategoryName": "Eğitim",
+    "province": "Bursa",
+    "district": "Osmangazi",
+    "lat": 40.191994,
+    "lon": 29.077201
+  }
+]
