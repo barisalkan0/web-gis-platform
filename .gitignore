@@ -20,3 +20,6 @@ src/BasarsoftStaj.API/appsettings.Development.json
 !.vscode/extensions.json
 .idea/
 .DS_Store
+
+# Kişisel notlar
+postgres.txt
